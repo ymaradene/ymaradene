@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ymaradene
-- 👀 I’m interested in purcporc
+- 👀 I’m interested in ds3
 - 🌱 I’m currently learning program
-- 💞️ I’m looking to collaborate on league of legend
+- 💞️ I’m looking to collaborate on league of legends
 - 📫 How to reach me you don't
-- 😄 Pronouns: yes
+- 😄 Pronouns: 
 - ⚡ Fun fact: fun 
 
 <!---
